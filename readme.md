@@ -1,3 +1,7 @@
+# Audio steganography - Phase encoding
+
+http://dsp.stackexchange.com/questions/14804/audio-steganography-using-phase-encoding-technique
+
 
 ## Imports
 
